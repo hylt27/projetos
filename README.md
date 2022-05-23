@@ -1,2 +1,2 @@
 # projetos
-Projetos de análise de dados
+Projetos de análise de dados (data analysis projects)
